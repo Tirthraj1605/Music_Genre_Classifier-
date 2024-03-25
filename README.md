@@ -95,6 +95,6 @@ We welcome contributions from the community! If you have ideas for improvement, 
 Special thanks to the following contributors:
 
 - [Ayushmaan Singh Nikumbh](https://github.com/commie1)
-- [Tirthraj Bhalodiya](https://github.com/Tirthraj1605)
+- [Archit Anand](https://github.com/architanand95)
 
 
